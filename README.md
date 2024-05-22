@@ -1,2 +1,2 @@
 # expensetracker
-Practicing expen
+Practicing react by making expenses
